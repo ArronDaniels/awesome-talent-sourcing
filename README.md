@@ -327,6 +327,7 @@
 <li><a href="https://chrome.google.com/webstore/detail/obbnkbhoknnlndofpoikddaompgmiioc">Most Visited</a> | Access your most visited pages from a quick drop-down menu</li>
 <li><a href="https://chrome.google.com/webstore/detail/eakacpaijcpapndcfffdgphdiccmpknp">MozBar</a> | MozBar from Moz</li>
 <li><a href="https://chrome.google.com/webstore/detail/dpecplbkinpdbedgejddhepkgcppgchk">Multi-File Downloader</a> | Easily and quickly download multiple files from websites.</li>
+<li><a href="https://chrome.google.com/webstore/detail/multi-highlight/mmkdibnjnmdebbhnddmpknnedpcokonh/related">Multi Highlight</a> | Multi Highlight allows multi-word searching/highlighting on almost any web page.  Each term is highlighted with a unique color. Adding this one snce Ctrl + Shift + A command on Multihighlighter below is not active with chrome update.</li>
 <li><a href="https://chrome.google.com/webstore/detail/ocifbglmlbpgpbflnkfpclkmckoollbn">MultiHighlighter</a> | MultiHighlighter allows multi-word searching/highlighting on almost any web page.  Each term is highlighted with a unique color.</li>
 <li><a href="https://chrome.google.com/webstore/detail/opncjdadngnekakilfcgjlgbmekljdbm">Multiple File Download</a> | This extension enables the user to select all the documents present in the web page for download.</li>
 <li><a href="https://chrome.google.com/webstore/detail/eojdckfcadamkapabechhbnkleligand">Multiple Tools for Facebook</a> | Multiple Tools for Facebook is a collection of automation tools.</li>
